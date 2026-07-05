@@ -1,0 +1,402 @@
+{
+  "USG-0001": {
+    "clinic_name": "Vet-Medica",
+    "address": "ul. Lipowa 63",
+    "zip_code": "23-792",
+    "city": "Rzeszów",
+    "contact": "+48 879 658 189",
+    "email": "biuro@vet-medica-rzeszow.pl"
+  },
+  "USG-0002": {
+    "clinic_name": "Radosny Pysk",
+    "address": "ul. Polna 24",
+    "zip_code": "74-716",
+    "city": "Rzeszów",
+    "contact": "+48 513 674 303",
+    "email": "biuro@radosny-pysk-rzeszow.pl"
+  },
+  "USG-0003": {
+    "clinic_name": "Radosny Pysk",
+    "address": "ul. Zwierzyniecka 72a",
+    "zip_code": "30-814",
+    "city": "Wrocław",
+    "contact": "+48 716 448 384",
+    "email": "biuro@radosny-pysk-wroclaw.pl"
+  },
+  "USG-0004": {
+    "clinic_name": "Cztery Łapy",
+    "address": "ul. Kwiatowa 27",
+    "zip_code": "22-467",
+    "city": "Wrocław",
+    "contact": "+48 676 718 370",
+    "email": "biuro@cztery-lapy-wroclaw.pl"
+  },
+  "USG-0005": {
+    "clinic_name": "Gabinet Pod Psiakiem",
+    "address": "ul. Warszawska 32b",
+    "zip_code": "20-665",
+    "city": "Tarnów",
+    "contact": "+48 650 949 743",
+    "email": "biuro@gabinet-pod-psiakiem-tarnow.pl"
+  },
+  "USG-0006": {
+    "clinic_name": "Centrum Weterynaryjne",
+    "address": "ul. Słoneczna 12",
+    "zip_code": "47-181",
+    "city": "Wrocław",
+    "contact": "+48 619 987 203",
+    "email": "biuro@centrum-weterynaryjne-wroclaw.pl"
+  },
+  "USG-0007": {
+    "clinic_name": "Arka Noego",
+    "address": "ul. Zwierzyniecka 94",
+    "zip_code": "55-314",
+    "city": "Poznań",
+    "contact": "+48 843 373 818",
+    "email": "biuro@arka-noego-poznan.pl"
+  },
+  "USG-0008": {
+    "clinic_name": "Koci Zaułek",
+    "address": "ul. Warszawska 63",
+    "zip_code": "58-376",
+    "city": "Warszawa",
+    "contact": "+48 827 804 670",
+    "email": "biuro@koci-zaulek-warszawa.pl"
+  },
+  "USG-0009": {
+    "clinic_name": "Vet-Care",
+    "address": "ul. Polna 59b",
+    "zip_code": "61-374",
+    "city": "Gdańsk",
+    "contact": "+48 533 316 680",
+    "email": "biuro@vet-care-gdansk.pl"
+  },
+  "USG-0010": {
+    "clinic_name": "Przyjaciel Vet",
+    "address": "ul. Zwierzyniecka 102c",
+    "zip_code": "68-246",
+    "city": "Wrocław",
+    "contact": "+48 635 242 352",
+    "email": "biuro@przyjaciel-vet-wroclaw.pl"
+  },
+  "USG-0011": {
+    "clinic_name": "Zwierzęcy Zakątek",
+    "address": "ul. Długa 103",
+    "zip_code": "27-621",
+    "city": "Lublin",
+    "contact": "+48 752 193 873",
+    "email": "biuro@zwierzecy-zakatek-lublin.pl"
+  },
+  "USG-0012": {
+    "clinic_name": "Gabinet Pod Psiakiem",
+    "address": "ul. Mickiewicza 41b",
+    "zip_code": "86-165",
+    "city": "Kraków",
+    "contact": "+48 697 490 710",
+    "email": "biuro@gabinet-pod-psiakiem-krakow.pl"
+  },
+  "USG-0013": {
+    "clinic_name": "Lecznica pod Psem",
+    "address": "ul. Warszawska 3",
+    "zip_code": "24-798",
+    "city": "Poznań",
+    "contact": "+48 774 868 373",
+    "email": "biuro@lecznica-pod-psem-poznan.pl"
+  },
+  "USG-0014": {
+    "clinic_name": "Przyjaciel Vet",
+    "address": "ul. Lipowa 112",
+    "zip_code": "10-839",
+    "city": "Kraków",
+    "contact": "+48 868 369 612",
+    "email": "biuro@przyjaciel-vet-krakow.pl"
+  },
+  "USG-0015": {
+    "clinic_name": "Zdrowy Pupil",
+    "address": "ul. Lipowa 130",
+    "zip_code": "29-482",
+    "city": "Kraków",
+    "contact": "+48 890 265 652",
+    "email": "biuro@zdrowy-pupil-krakow.pl"
+  },
+  "USG-0016": {
+    "clinic_name": "Psia Przystań",
+    "address": "ul. Zwierzyniecka 5",
+    "zip_code": "56-999",
+    "city": "Gdańsk",
+    "contact": "+48 657 345 159",
+    "email": "biuro@psia-przystan-gdansk.pl"
+  },
+  "USG-0017": {
+    "clinic_name": "Vet-Care",
+    "address": "ul. Słoneczna 125c",
+    "zip_code": "26-231",
+    "city": "Kraków",
+    "contact": "+48 837 586 662",
+    "email": "biuro@vet-care-krakow.pl"
+  },
+  "USG-0018": {
+    "clinic_name": "Zdrowy Pupil",
+    "address": "ul. Warszawska 109c",
+    "zip_code": "98-305",
+    "city": "Poznań",
+    "contact": "+48 865 419 508",
+    "email": "biuro@zdrowy-pupil-poznan.pl"
+  },
+  "USG-0019": {
+    "clinic_name": "Centrum Weterynaryjne",
+    "address": "ul. Warszawska 116",
+    "zip_code": "38-165",
+    "city": "Tarnów",
+    "contact": "+48 673 121 702",
+    "email": "biuro@centrum-weterynaryjne-tarnow.pl"
+  },
+  "USG-0020": {
+    "clinic_name": "Vet-Care",
+    "address": "ul. Polna 19a",
+    "zip_code": "39-169",
+    "city": "Wrocław",
+    "contact": "+48 516 980 438",
+    "email": "biuro@vet-care-wroclaw.pl"
+  },
+  "USG-0021": {
+    "clinic_name": "Koci Zaułek",
+    "address": "ul. Lipowa 125",
+    "zip_code": "26-840",
+    "city": "Wrocław",
+    "contact": "+48 792 690 584",
+    "email": "biuro@koci-zaulek-wroclaw.pl"
+  },
+  "USG-0022": {
+    "clinic_name": "Vet-Care",
+    "address": "ul. Weterynaryjna 49",
+    "zip_code": "94-541",
+    "city": "Tarnów",
+    "contact": "+48 681 533 520",
+    "email": "biuro@vet-care-tarnow.pl"
+  },
+  "USG-0023": {
+    "clinic_name": "Lecznica pod Psem",
+    "address": "ul. Słoneczna 16",
+    "zip_code": "53-919",
+    "city": "Rzeszów",
+    "contact": "+48 555 354 296",
+    "email": "biuro@lecznica-pod-psem-rzeszow.pl"
+  },
+  "USG-0024": {
+    "clinic_name": "Klinika Małych Zwierząt",
+    "address": "ul. Mickiewicza 109",
+    "zip_code": "69-355",
+    "city": "Tarnów",
+    "contact": "+48 538 553 927",
+    "email": "biuro@klinika-malych-zwierzat-tarnow.pl"
+  },
+  "USG-0025": {
+    "clinic_name": "Vet-Medica",
+    "address": "ul. Warszawska 4a",
+    "zip_code": "31-516",
+    "city": "Rzeszów",
+    "contact": "+48 748 592 318",
+    "email": "biuro@vet-medica-rzeszow.pl"
+  },
+  "USG-0026": {
+    "clinic_name": "Arka Noego",
+    "address": "ul. Mickiewicza 98",
+    "zip_code": "59-371",
+    "city": "Rzeszów",
+    "contact": "+48 732 392 533",
+    "email": "biuro@arka-noego-rzeszow.pl"
+  },
+  "USG-0027": {
+    "clinic_name": "Salus Vet",
+    "address": "ul. Leśna 76",
+    "zip_code": "17-693",
+    "city": "Warszawa",
+    "contact": "+48 876 655 162",
+    "email": "biuro@salus-vet-warszawa.pl"
+  },
+  "USG-0028": {
+    "clinic_name": "Przyjaciel Vet",
+    "address": "ul. Polna 150",
+    "zip_code": "77-261",
+    "city": "Rzeszów",
+    "contact": "+48 529 620 182",
+    "email": "biuro@przyjaciel-vet-rzeszow.pl"
+  },
+  "USG-0029": {
+    "clinic_name": "Zdrowy Pupil",
+    "address": "ul. Długa 18",
+    "zip_code": "40-513",
+    "city": "Kraków",
+    "contact": "+48 561 683 352",
+    "email": "biuro@zdrowy-pupil-krakow.pl"
+  },
+  "USG-0030": {
+    "clinic_name": "Gabinet Pod Psiakiem",
+    "address": "ul. Weterynaryjna 150",
+    "zip_code": "50-367",
+    "city": "Kraków",
+    "contact": "+48 604 785 833",
+    "email": "biuro@gabinet-pod-psiakiem-krakow.pl"
+  },
+  "USG-0031": {
+    "clinic_name": "Przyjaciel Vet",
+    "address": "ul. Lipowa 102",
+    "zip_code": "92-407",
+    "city": "Wrocław",
+    "contact": "+48 734 423 869",
+    "email": "biuro@przyjaciel-vet-wroclaw.pl"
+  },
+  "USG-0032": {
+    "clinic_name": "Koci Zaułek",
+    "address": "ul. Zwierzyniecka 145a",
+    "zip_code": "78-318",
+    "city": "Rzeszów",
+    "contact": "+48 759 371 235",
+    "email": "biuro@koci-zaulek-rzeszow.pl"
+  },
+  "USG-0033": {
+    "clinic_name": "Centrum Weterynaryjne",
+    "address": "ul. Leśna 95",
+    "zip_code": "66-953",
+    "city": "Kraków",
+    "contact": "+48 778 820 409",
+    "email": "biuro@centrum-weterynaryjne-krakow.pl"
+  },
+  "USG-0034": {
+    "clinic_name": "Psia Przystań",
+    "address": "ul. Słoneczna 35",
+    "zip_code": "23-860",
+    "city": "Poznań",
+    "contact": "+48 783 259 378",
+    "email": "biuro@psia-przystan-poznan.pl"
+  },
+  "USG-0035": {
+    "clinic_name": "Ogonek",
+    "address": "ul. Kwiatowa 53",
+    "zip_code": "43-617",
+    "city": "Wrocław",
+    "contact": "+48 750 357 966",
+    "email": "biuro@ogonek-wroclaw.pl"
+  },
+  "USG-0036": {
+    "clinic_name": "Gabinet Pod Psiakiem",
+    "address": "ul. Weterynaryjna 71",
+    "zip_code": "52-889",
+    "city": "Kraków",
+    "contact": "+48 566 752 368",
+    "email": "biuro@gabinet-pod-psiakiem-krakow.pl"
+  },
+  "USG-0037": {
+    "clinic_name": "Zdrowy Pupil",
+    "address": "ul. Warszawska 110",
+    "zip_code": "24-177",
+    "city": "Tarnów",
+    "contact": "+48 853 252 658",
+    "email": "biuro@zdrowy-pupil-tarnow.pl"
+  },
+  "USG-0038": {
+    "clinic_name": "Gabinet Pod Psiakiem",
+    "address": "ul. Długa 142",
+    "zip_code": "26-142",
+    "city": "Gdańsk",
+    "contact": "+48 657 473 915",
+    "email": "biuro@gabinet-pod-psiakiem-gdansk.pl"
+  },
+  "USG-0039": {
+    "clinic_name": "Gabinet Pod Psiakiem",
+    "address": "ul. Leśna 64",
+    "zip_code": "55-898",
+    "city": "Gdańsk",
+    "contact": "+48 786 995 516",
+    "email": "biuro@gabinet-pod-psiakiem-gdansk.pl"
+  },
+  "USG-0040": {
+    "clinic_name": "Cztery Łapy",
+    "address": "ul. Mickiewicza 46a",
+    "zip_code": "32-854",
+    "city": "Wrocław",
+    "contact": "+48 670 901 521",
+    "email": "biuro@cztery-lapy-wroclaw.pl"
+  },
+  "USG-0041": {
+    "clinic_name": "Vet-Care",
+    "address": "ul. Mickiewicza 28",
+    "zip_code": "14-979",
+    "city": "Poznań",
+    "contact": "+48 740 327 304",
+    "email": "biuro@vet-care-poznan.pl"
+  },
+  "USG-0042": {
+    "clinic_name": "Lecznica pod Psem",
+    "address": "ul. Lipowa 59",
+    "zip_code": "94-297",
+    "city": "Gdańsk",
+    "contact": "+48 704 436 385",
+    "email": "biuro@lecznica-pod-psem-gdansk.pl"
+  },
+  "USG-0043": {
+    "clinic_name": "Koci Zaułek",
+    "address": "ul. Kwiatowa 131",
+    "zip_code": "78-439",
+    "city": "Poznań",
+    "contact": "+48 514 218 998",
+    "email": "biuro@koci-zaulek-poznan.pl"
+  },
+  "USG-0044": {
+    "clinic_name": "Zwierzęcy Zakątek",
+    "address": "ul. Długa 68",
+    "zip_code": "86-544",
+    "city": "Warszawa",
+    "contact": "+48 676 846 905",
+    "email": "biuro@zwierzecy-zakatek-warszawa.pl"
+  },
+  "USG-0045": {
+    "clinic_name": "Przyjaciel Vet",
+    "address": "ul. Długa 131",
+    "zip_code": "83-294",
+    "city": "Lublin",
+    "contact": "+48 630 145 825",
+    "email": "biuro@przyjaciel-vet-lublin.pl"
+  },
+  "USG-0046": {
+    "clinic_name": "Radosny Pysk",
+    "address": "ul. Warszawska 138",
+    "zip_code": "95-301",
+    "city": "Rzeszów",
+    "contact": "+48 686 541 171",
+    "email": "biuro@radosny-pysk-rzeszow.pl"
+  },
+  "USG-0047": {
+    "clinic_name": "Przyjaciel Vet",
+    "address": "ul. Słoneczna 77",
+    "zip_code": "95-518",
+    "city": "Gdańsk",
+    "contact": "+48 667 512 813",
+    "email": "biuro@przyjaciel-vet-gdansk.pl"
+  },
+  "USG-0048": {
+    "clinic_name": "Ogonek",
+    "address": "ul. Leśna 108",
+    "zip_code": "58-793",
+    "city": "Warszawa",
+    "contact": "+48 883 278 730",
+    "email": "biuro@ogonek-warszawa.pl"
+  },
+  "USG-0049": {
+    "clinic_name": "Ogonek",
+    "address": "ul. Warszawska 1",
+    "zip_code": "36-540",
+    "city": "Lublin",
+    "contact": "+48 796 721 770",
+    "email": "biuro@ogonek-lublin.pl"
+  },
+  "USG-0050": {
+    "clinic_name": "Przyjaciel Vet",
+    "address": "ul. Zwierzyniecka 114",
+    "zip_code": "75-584",
+    "city": "Tarnów",
+    "contact": "+48 876 273 774",
+    "email": "biuro@przyjaciel-vet-tarnow.pl"
+  }
+}
